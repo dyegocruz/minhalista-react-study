@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 O projeto em questão foi feito em React com propósito de estudo e trabalho final para o módulo de desenvolvimento web com frameworks da minha pós-graduação em Engenharia de Sofware com DevOPS.
 
+P.S: Utilizar esse projeto com o backend .NET Core (https://github.com/dyegocruz/minhalista-dotnetcore-study)
+
 ## Table of Contents
 
 - [Init Project](#project-init)
