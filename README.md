@@ -18,6 +18,7 @@ O projeto em questão foi feito em React com propósito de estudo e trabalho fin
 ```
 git clone https://github.com/dyegocruz/minhalista-react-study.git
 cd minhalista-react-study
+npm install
 npm start
 ```
 
