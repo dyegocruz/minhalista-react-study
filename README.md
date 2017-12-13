@@ -86,4 +86,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Something Missing?
 
-If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
+If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/dyegocruz/minhalista-react-study/issues) or [contribute some!](https://github.com/dyegocruz/minhalista-react-study/blob/master/README.md)
