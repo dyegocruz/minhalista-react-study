@@ -1,0 +1,43 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Carousel */
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+/* QR code generator */
+#qrCode {
+    margin: 15px;
+}
+
+/* Hide/rearrange for smaller screens */
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
+}
+
+.tr_clone {
+    transition-duration: 0.5s;
+    webkit-transition-duration: 0.5s;
+}
+
+.tr_clone input, .tr_clone button {
+    margin: 2px;
+}
+
+.item-checked {
+    background: #51a351;    
+}
